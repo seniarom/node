@@ -11,5 +11,6 @@
   "dependencies": {
     "colors": "^1.4.0",
     "moment": "^2.29.4"
-  }
+  },
+  "type": "module"
 }
